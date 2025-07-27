@@ -15,11 +15,11 @@ As a self-driven developer with a strong foundation in frontend technologies, I 
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with React, JavaScript
-- 🚀 &nbsp; I’m currently learning Java
+- 🛠 &nbsp; I’m currently working with `Java`
+- 🚀 &nbsp; I’m currently learning `Java` & `Python`
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/RaviHamidov?tab=repositories).
-- 👾 &nbsp; Fun fact: Googling is my favorite activity.
-- 📫 &nbsp; How to reach me: ravihamidov42@gmail.com or I mentioned above Social Media
+- 👾 &nbsp; Fun fact: `Googling` and Searching new `AI tools` are my favorite activity.
+- 📫 &nbsp; How to reach me: `ravihamidov42@gmail.com` or I mentioned above Social Media
 - 📝 &nbsp; Checkout my [Resume](https://github.com/ravihamidov/resume-project/raw/main/resumeByRaviHamidov.pdf)
 
 ### My Absolute Favorites:
