@@ -34,25 +34,23 @@ As a self-driven developer with a strong foundation in frontend technologies, I 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,react,java&theme=light)](https://skillicons.dev)
 
-### Projects and Dev Stuffs:
-
+<!--
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
-
   <br />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ravihamidov&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravihamidov&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ravi-hamidov&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-hamidov&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
-
+-->
 <div align="left">
 
-### Like My Work?
+## Like My Work?
 
 <a href="https://ko-fi.com/ravihamidov" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+[![Ravi's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ravi-hamidov&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
